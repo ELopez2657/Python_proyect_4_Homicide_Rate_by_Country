@@ -1,6 +1,6 @@
 # Python_proyect_4_Homicide_Rate_by_Country
 
-The aim of this analysis is to answer the following questions and create their respective graphical representations:
+This project aims to make a report on the homicide rate in different countries, how various factors influence it and its behavior over time:
 
 1. Which are the countries with the highest number of homicides?
 
